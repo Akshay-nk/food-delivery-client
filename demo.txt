@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "name": "Puttu and Kadala Curry",
+    "description": "Steamed rice cake served with black chickpeas curry",
+    "ingredients": ["Rice flour", "Grated coconut", "Black chickpeas", "Onions", "Tomatoes", "Coconut oil", "Spices"],
+    "price": 50,
+    "nutritional_info": {
+      "calories": 350,
+      "protein": 10,
+      "carbs": 60,
+      "fats": 10
+    },
+    "availability": true,
+    "image_url": "https://i.pinimg.com/originals/95/9f/27/959f27d0057b33cd232812ad01ce2d7c.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Appam with Stew",
+    "description": "Fermented rice pancake served with vegetable or meat stew",
+    "ingredients": ["Rice flour", "Coconut milk", "Yeast", "Vegetables", "Meat", "Spices"],
+    "price": 70,
+    "nutritional_info": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 40,
+      "fats": 8
+    },
+    "availability": true,
+    "image_url": "https://th.bing.com/th/id/OIP.lX0YPJ7Q-b05Lhiqb6z8uAAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "3",
+    "name": "Dosa with Sambar",
+    "description": "Fermented rice and lentil pancake served with spicy lentil soup",
+    "ingredients": ["Rice", "Lentils", "Coconut", "Tamarind", "Vegetables", "Spices"],
+    "price": 40,
+    "nutritional_info": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 35,
+      "fats": 5
+    },
+    "availability": true,
+    "image_url": "https://cdn.shopify.com/s/files/1/3028/7274/articles/1582305526_1582305520_1582305364_1582305349_1582304487_1582304482_1582297507_1582297420_1582297166_1582297160_Masala_Dosa_1.jpg?v=1582305529"
+  },
+  {
+    "id": "4",
+    "name": "Idiyappam with Egg Curry",
+    "description": "String hoppers made from rice flour served with spicy egg curry",
+    "ingredients": ["Rice flour", "Eggs", "Coconut milk", "Onions", "Tomatoes", "Spices"],
+    "price": 60,
+    "nutritional_info": {
+      "calories": 300,
+      "protein": 12,
+      "carbs": 50,
+      "fats": 10
+    },
+    "availability": true,
+    "image_url": "https://d96xf8nw30hcy.cloudfront.net/SFImage/Images/idiyappam-and-egg-currye60300e413a06dce84b1ff000062a8f2.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Parippu Curry",
+    "description": "Lentil curry made with coconut and spices",
+    "ingredients": ["Yellow lentils", "Coconut", "Green chilies", "Garlic", "Spices"],
+    "price": 30,
+    "nutritional_info": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 25,
+      "fats": 6
+    },
+    "availability": true,
+    "image_url": "https://i.pinimg.com/originals/c7/89/03/c78903baa929e943a460fa1f15bd9bc8.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Avial",
+    "description": "Mixed vegetable curry with coconut and yogurt",
+    "ingredients": ["Mixed vegetables", "Coconut", "Yogurt", "Coconut oil", "Curry leaves", "Spices"],
+    "price": 50,
+    "nutritional_info": {
+      "calories": 150,
+      "protein": 5,
+      "carbs": 20,
+      "fats": 7
+    },
+    "availability": true,
+    "image_url": "https://th.bing.com/th/id/OIP.lpRjWziOKSDvwtvwVA_6TQHaGw?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "7",
+    "name": "Erissery",
+    "description": "Pumpkin and lentil curry with coconut and spices",
+    "ingredients": ["Pumpkin", "Lentils", "Coconut", "Cumin", "Mustard seeds", "Spices"],
+    "price": 40,
+    "nutritional_info": {
+      "calories": 170,
+      "protein": 6,
+      "carbs": 30,
+      "fats": 5
+    },
+    "availability": true,
+    "image_url": "https://th.bing.com/th/id/R.53b9c6f4e8baa204955f1cc0668ea9e7?rik=WlP%2bYLQ5VEfjZw&riu=http%3a%2f%2fwww.archanaskitchen.com%2fimages%2farchanaskitchen%2f1-Author%2fSmitha_Kalluraya%2fChenakayi_Erissery_Yam_Erissery.jpg&ehk=i5dkOCPrwrunkY2cYdJON6QnAIIaIDA2gCJVaVQrAhE%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "8",
+    "name": "Thoran",
+    "description": "Stir-fried vegetables with grated coconut and spices",
+    "ingredients": ["Mixed vegetables", "Coconut", "Green chilies", "Mustard seeds", "Curry leaves"],
+    "price": 35,
+    "nutritional_info": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 15,
+      "fats": 5
+    },
+    "availability": true,
+    "image_url": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/Carrot_Beans_Thoran_Kerala_Recipe_Vegetables_Healthy_Food-2.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Kalan",
+    "description": "Yam and plantain curry with yogurt and coconut",
+    "ingredients": ["Yam", "Plantain", "Yogurt", "Coconut", "Spices"],
+    "price": 45,
+    "nutritional_info": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 35,
+      "fats": 6
+    },
+    "availability": true,
+    "image_url": "https://th.bing.com/th/id/R.22e48120059de273f4d8e001dd111e38?rik=ae6%2blqB7G8y%2fRQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f-qZFfcUuY3kg%2fVAmt6597ULI%2fAAAAAAAANuc%2fGo1m61nSd6I%2fw1200-h630-p-nu%2fKalan_Final2.JPG&ehk=%2fU5%2b%2bSUZPu%2fmxoFgmCTbO10hqlBV%2bwXzP6okHPsbTHQ%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "10",
+    "name": "Olan",
+    "description": "Pumpkin and cowpeas curry with coconut milk",
+    "ingredients": ["Pumpkin", "Cowpeas", "Coconut milk", "Curry leaves"],
+    "price": 50,
+    "nutritional_info": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 25,
+      "fats": 4
+    },
+    "availability": true,
+    "image_url": "https://www.kannammacooks.com/wp-content/uploads/olan-recipe-with-coconut-milk-recipe-kerala-pumpkin-ash-gourd-1-2-1024x1024.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Payasam",
+    "description": "Sweet rice pudding made with milk and jaggery",
+    "ingredients": ["Rice", "Jaggery", "Milk", "Coconut milk", "Cardamom"],
+    "price": 30,
+    "nutritional_info": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 50,
+      "fats": 5
+    },
+    "availability": true,
+    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/08/semiya-payasam.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Sambar",
+    "description": "Spicy lentil soup with vegetables",
+    "ingredients": ["Lentils", "Tamarind", "Mixed vegetables", "Spices"],
+    "price": 40,
+    "nutritional_info": {
+      "calories": 180,
+      "protein": 7,
+      "carbs": 25,
+      "fats": 5
+    },
+    "availability": true,
+    "image_url": "https://images.saymedia-content.com/.image/t_share/MTc4NDg5NTU0ODM0MTA1OTYw/12-authentic-sambar-powders-of-south-india.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Pachadi",
+    "description": "Yogurt-based dish with vegetables or fruits",
+    "ingredients": ["Yogurt", "Vegetables or fruits", "Coconut", "Mustard seeds"],
+    "price": 35,
+    "nutritional_info": {
+      "calories": 110,
+      "protein": 3,
+      "carbs": 10,
+      "fats": 6
+    },
+    "availability": true,
+    "image_url": "https://www.sharmispassions.com/wp-content/uploads/2020/08/CucumnerPachadi4.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Inji Puli",
+    "description": "Sweet and tangy ginger-tamarind chutney",
+    "ingredients": ["Ginger", "Tamarind", "Jaggery", "Spices"],
+    "price": 25,
+    "nutritional_info": {
+      "calories": 100,
+      "protein": 1,
+      "carbs": 25,
+      "fats": 1
+    },
+    "availability": true,
+    "image_url": "https://th.bing.com/th/id/R.12834ea42887bd687ec93ac1e3728d0e?rik=CMfIhVGroc2lrw&riu=http%3a%2f%2f2.bp.blogspot.com%2f_adZ5UAGT3Mg%2fTHKv-Mg5eTI%2fAAAAAAAAC2E%2fopTdeYLV8uQ%2fs1600%2fpuli%2bInji.jpg&ehk=%2fHKE7zQApC5uFQSHtz39mOjBd5htrwAGOpsKkeFS1n4%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "15",
+    "name": "Fish Molee",
+    "description": "Fish cooked in coconut milk with spices",
+    "ingredients": ["Fish", "Coconut milk", "Tomatoes", "Green chilies", "Spices"],
+    "price": 80,
+    "nutritional_info": {
+      "calories": 300,
+      "protein": 25,
+      "carbs": 10,
+      "fats": 18
+    },
+    "availability": true,
+    "image_url": "https://th.bing.com/th/id/OIP.oW7WKghYY9SO2nAjWxh_9AHaFi?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "16",
+    "name": "Beef Fry",
+    "description": "Spicy and crispy beef fry",
+    "ingredients": ["Beef", "Coconut slices", "Onions", "Garlic", "Spices"],
+    "price": 90,
+    "nutritional_info": {
+      "calories": 400,
+      "protein": 30,
+      "carbs": 10,
+      "fats": 25
+    },
+    "availability": true,
+    "image_url": "https://1.bp.blogspot.com/-4TwWAI1qHkI/Wu7nL8HJzMI/AAAAAAAAW_Q/Q9-9Nh_xLKEJfF85EollzXZgDWiS3z3uQCLcBGAs/s1600/beef%2Bfry%2B1i.JPG"
+  },
+  {
+    "id": "17",
+    "name": "Kappa and Meen Curry",
+    "description": "Boiled tapioca served with spicy fish curry",
+    "ingredients": ["Tapioca", "Fish", "Coconut", "Spices"],
+    "price": 70,
+    "nutritional_info": {
+      "calories": 350,
+      "protein": 20,
+      "carbs": 50,
+      "fats": 12
+    },
+    "availability": true,
+    "image_url": "https://th.bing.com/th/id/OIP.Si9vcmSxCaqwR0FBqjPE5QHaFO?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": "18",
+    "name": "Pathiri and Chicken Curry",
+    "description": "Rice flatbread served with spicy chicken curry",
+    "ingredients": ["Rice flour", "Chicken", "Coconut milk", "Onions", "Spices"],
+    "price": 75,
+    "nutritional_info": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 40,
+      "fats": 12
+    },
+    "availability": true,
+    "image_url": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Curry-recipe.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Neyyappam",
+    "description": "Sweet rice pancake made with jaggery and ghee",
+    "ingredients": ["Rice flour", "Jaggery", "Ghee", "Cardamom"],
+    "price": 30,
+    "nutritional_info": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 40,
+      "fats": 8
+    },
+    "availability": true,
+    "image_url": "https://www.thattukada.net/wp-content/uploads/2022/06/neyyappam-640x335.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Unniyappam",
+    "description": "Sweet fritters made with rice flour, jaggery, and banana",
+    "ingredients": ["Rice flour", "Jaggery", "Banana", "Coconut", "Cardamom"],
+    "price": 30,
+    "nutritional_info": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 35,
+      "fats": 7
+    },
+    "availability": true,
+    "image_url": "https://vaya.in/recipes/wp-content/uploads/2018/11/Unniyappam-Recipe.jpg"
+  }
+]
